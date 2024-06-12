@@ -8,7 +8,7 @@
 
 <img src="profile-img.png" align="right" width="25%"/>
 
-I'm a dedicated Flutter Developer with over 6 years of experience in designing and developing high-performance mobile and desktop applications. Proficient in Dart, Python, and C#, with a strong background in using Flutter and various developer tools. Adept at implementing state management solutions, integrating RESTful APIs, and optimizing app performance. Passionate about continuous learning and staying updated with the latest industry trends.
+I'm a dedicated Flutter Developer with over 6 years of experience in designing and developing high-performance mobile and desktop applications. Proficient in Dart, and C#, with a strong background in using Flutter and various developer tools. Adept at implementing state management solutions, integrating RESTful APIs, and optimizing app performance. Passionate about continuous learning and staying updated with the latest industry trends.
 
 - 🔭 I'm a software developer currently working at [GLC Paints](https://www.glcpaints.com/)
 - 🔍 I have several live apps: 
@@ -19,7 +19,7 @@ I'm a dedicated Flutter Developer with over 6 years of experience in designing a
 - 💬 Ask me about **Flutter, Dart, and mobile app development**
 
 ## 🛠 Technical Skills
-- **Languages:** Dart, Python, C#, SQLite, MySQL, SQL Server, TypeScript, HTML/CSS
+- **Languages:** Dart, C#, SQLite, MySQL, SQL Server, TypeScript, HTML/CSS
 - **Frameworks:** Flutter, Node.js, Material-UI, REST API
 - **Developer Tools:** Git, Android Studio, Google Cloud Platform, VS Code, Visual Studio, SQL Server Management, PyCharm, Postman
 
@@ -56,7 +56,6 @@ Bachelor of Commerce
 
 ## 🎓 Certificates
 - C# Development
-- Python Development
 - Advanced Angular Development
 - Flutter Development
 - SQL Server
