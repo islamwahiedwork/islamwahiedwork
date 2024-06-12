@@ -10,7 +10,7 @@
 
 I'm a dedicated Flutter Developer with over 6 years of experience in designing and developing high-performance mobile and desktop applications. Proficient in Dart, Python, and C#, with a strong background in using Flutter and various developer tools. Adept at implementing state management solutions, integrating RESTful APIs, and optimizing app performance. Passionate about continuous learning and staying updated with the latest industry trends.
 
-- 🔭 I'm a software developer currently working at [GLC Paints](https://my.glcpaints.com/)
+- 🔭 I'm a software developer currently working at [GLC Paints](https://www.glcpaints.com/)
 - 🔍 I have several live apps: 
   - [GLC Quick (Android)](https://play.google.com/store/apps/details?id=com.glcpaints.glcpaintshrweb), [GLC Quick (iOS)](https://apps.apple.com/us/app/glc-quick-2/id1668532261), [GLC Quick (Website)](https://my.glcpaints.com/)
   - [GLC Express (Android)](https://play.google.com/store/apps/details?id=com.ahmedabdelghafar.express)
