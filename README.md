@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/your_instagram_handle"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
 
-<img src="dash2022_4k.png" align="right" width="25%"/>
+<img src="profile-img.png" align="right" width="25%"/>
 
 I'm a dedicated Flutter Developer with over 6 years of experience in designing and developing high-performance mobile and desktop applications. Proficient in Dart, Python, and C#, with a strong background in using Flutter and various developer tools. Adept at implementing state management solutions, integrating RESTful APIs, and optimizing app performance. Passionate about continuous learning and staying updated with the latest industry trends.
 
