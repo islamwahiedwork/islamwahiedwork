@@ -65,4 +65,6 @@ Bachelor of Commerce
 ## 🤝 Let's Connect!
 - [Portfolio](https://islamwahiedwork.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/islam-wheed-2544821b1/)
+- Mobile Number: +201151816423
+- WhatsApp: [Message me on WhatsApp](https://wa.me/+201151816423)
  
