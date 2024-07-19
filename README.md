@@ -63,4 +63,4 @@ Bachelor of Commerce
 ## 🤝 Let's Connect!
 - [Portfolio](https://islamwahiedwork.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/islam-wheed-2544821b1/)
-- [GitHub](https://github.com/islamwahiedwork)
+ 
