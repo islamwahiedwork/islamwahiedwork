@@ -4,8 +4,8 @@
     <a href="https://www.linkedin.com/in/islam-wheed-2544821b1/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.youtube.com/c/your_channel"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a href="https://www.instagram.com/your_instagram_handle"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-    <a href="tel:+1234567890"><img src="https://img.shields.io/badge/mobile-%23000000?style=flat&logo=phone&logoColor=white"/></a>
-    <a href="https://wa.me/1234567890"><img src="https://img.shields.io/badge/whatsapp-%2325D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+    <a href="tel:+201151816423"><img src="https://img.shields.io/badge/mobile-%23000000?style=flat&logo=phone&logoColor=white"/></a>
+    <a href="https://wa.me/+201151816423"><img src="https://img.shields.io/badge/whatsapp-%2325D366?style=flat&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 <img src="profile-img.png" align="right" width="25%"/>
